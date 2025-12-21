@@ -10,7 +10,7 @@ I'm a Full Stack Developer focused on building web applications using modern tec
 - Git & GitHub
 - REST APIs
 
-## 🚀 What I do
+##  What I do
 - Build frontend interfaces with React
 - Develop backend logic and APIs with Python
 - Work with version control and clean code practices
